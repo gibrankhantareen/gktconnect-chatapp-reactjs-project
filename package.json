@@ -1,6 +1,6 @@
 {
   "name": "gktconnect-react-chat",
-  "homepage":"http://gibrankhantareen.github.io/gktconnect-chatapp-reactjs-project",
+  "homepage":"http://gibrankhantareen.github.io/gktconnect-chatapp-reactjs-project/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
