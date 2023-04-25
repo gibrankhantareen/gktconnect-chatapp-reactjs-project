@@ -1,6 +1,6 @@
 # GKTConnect Chat App - ReactJS Project
 
-I am learning ReactJS. This is a Project I made using the concepts of ReactJS. I have made this project using ReactJS and Firebase. It allows users to connect via Google and chat with anyone online :)
+I am learning ReactJS. This is a Project I made using the concepts of ReactJS. I have made this project using ReactJS and Firebase. It allows users to connect via Google and chat with anyone :)
 ## What Key concepts have I implemented in it?
 
 - The concept of "usestate" in React
